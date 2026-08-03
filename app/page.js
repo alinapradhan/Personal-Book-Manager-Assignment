@@ -21,7 +21,7 @@ export default function Home() {
 
   return (
     <main style={{ padding: "30px" }}>
-      <h1>📚 Personal Book Manager</h1>
+      <h1> Personal Book Manager</h1>
       <BookForm onBookAdded={fetchBooks} />
 
       <hr />
