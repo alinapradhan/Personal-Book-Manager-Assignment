@@ -1,4 +1,4 @@
-# Personal Book Manager Assigment :
+# Personal Book Manager Assigment : MERN STACK 
 
 ## Tool Stack :
 Frontend → Vercel (Next.js+ Javascript + Css)
