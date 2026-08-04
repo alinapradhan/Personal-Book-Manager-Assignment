@@ -2,7 +2,9 @@
 
 ## Tool Stack :
 Frontend → Vercel (Next.js+ Javascript + Css)
+
 Backend (Node.js + Express) → Render (recommended) or Railway
+
 MongoDB Atlas → Already hosted (your screenshot shows it's connected)
 
 ## FRONTEND 
