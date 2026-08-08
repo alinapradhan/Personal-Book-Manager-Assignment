@@ -1,6 +1,6 @@
 # Personal Book Manager Assigment (MERN STACK Based)
 
-## Tool Stack :
+## Tool Stack : 
 Frontend → Vercel (Next.js + Tailwind CSS)
 
 Backend (Node.js + Express) → Render (recommended) or Railway
